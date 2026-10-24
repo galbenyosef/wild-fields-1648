@@ -10,14 +10,14 @@ A real-time strategy game set on the Ukrainian steppe in 1648, written by Claude
 
 - People on a jointed rig with two-bone IK, foot planting, gaits for walking, running and galloping horses, corpses that fall the right way
 - Wheat that grows and ripens, paths that wear into the ground where peasants keep walking, trees that fall and leave stumps
-- 25 photo-scanned models and PBR textures from Poly Haven (CC0), cut 40 to 60 times, 112 MB of downloads down to about 9 MB
+- 20 Poly Haven models and 12 textures, photo-scanned and PBR (CC0), cut 40 to 60 times, 112 MB of downloads down to about 9 MB
 - AI opponents that build, gather, research and attack; a 20 minute AI vs AI match runs without errors
 - Burnt buildings leave ruins (log cribs, stone walls, a brick stove), new buildings clear the bushes on their plot
 - Sound synthesised in code, no samples
 
 ## From the first build to v3
 
-The first build had procedural models only. v3 added 25 Poly Haven scans that Claude found and downloaded itself by driving a browser, after its sandbox could not reach the asset sites.
+The first build had procedural models only. v3 added 20 Poly Haven models and 12 textures that Claude found and downloaded itself by driving a browser, after its sandbox could not reach the asset sites.
 
 ![v1 vs v3](media/post_before_after.jpg)
 
